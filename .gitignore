@@ -1,0 +1,3 @@
+# ignoring the kaggle dog and cat dataset
+dog_and_cat_cnn/dog_and_cat_dataset/
+dog_and_cat_cnn/dog_and_cat_dataset.zip
